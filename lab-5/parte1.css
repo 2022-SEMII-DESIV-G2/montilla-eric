@@ -1,0 +1,23 @@
+li {
+    font-size: 20px;
+}
+
+ul > li:nth-child(1) {
+    color: #3F448C;
+}
+
+ul > li:nth-child(2) {
+    color: #5A61BD;
+}
+
+ul > li:nth-child(3) {
+    color: #7178DF;
+}
+
+ul > li:nth-child(4) {
+    color: #9CA2EF;
+}
+
+ul > li:nth-child(5) {
+    color: #BBBEEF;
+}
